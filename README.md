@@ -1,3 +1,3 @@
 # SheCodes-basics
 
-https://tetianavs.github.io/SheCodes-basics-workshop/
+https://tetianavs.github.io/SheCodes-basics/
